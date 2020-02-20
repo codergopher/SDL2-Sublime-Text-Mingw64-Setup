@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"nullptr"
+			],
+			[
+				"re",
+				"renderer"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"anim",
+				"animationCounter"
+			],
+			[
+				"frames",
+				"framesAmount"
+			],
+			[
+				"hitbox",
+				"hitBoxOffSet"
+			],
+			[
+				"hi",
+				"hitBoxOffSet"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Marty/Desktop/Physics 2D Platformer SDL/Physics 2D Platformer SDL.sublime-project",
+		"/C/SDL2-2.0.10/Makefile",
+		"/C/Users/Marty/Desktop/A Physics Based 2D Platformer in SDL/SDL Platformer.sublime-project",
+		"/home/marty/Downloads/SDL2_image-2.0.5/README.txt",
+		"/home/marty/Desktop/Tutorials/C++ SDL2 2D Platformer/Current/src/main.cpp",
+		"/home/marty/Desktop/Tutorials/C++ 2D Platformer SFML/Current/include/Entity.hpp",
+		"/home/marty/Documents/Video jokes",
+		"/home/marty/Desktop/Tutorials/C++ 2D Platformer SFML/Current/include/Player.hpp",
+		"/home/marty/Desktop/Tutorials/C++ 2D Platformer SFML/Current/include/Hitbox.hpp",
+		"/home/marty/Dev/Tutorials/C++ 2D Platformer SFML/Current/Tower Defender 2D.sublime-project",
+		"/home/marty/Dev/Tutorials/C++/Current/src/player.cpp",
+		"/home/marty/Dev/Tutorials/C++/Current/Tower Defender 2D.sublime-project",
+		"/home/marty/Dev/Tutorials/C++/Current/include/Entity.hpp",
+		"/home/marty/Dev/Tutorials/C++/Current/src/entity.cpp",
+		"/home/marty/Dev/Tutorials/C++/Current/src/main.cpp",
+		"/home/marty/Dev/Tutorials/C++/Current/build.sh",
+		"/home/marty/Dev/Tower Defender 2D/Broken/src/player.cpp",
+		"/home/marty/Dev/Tower Defender 2D/Broken/src/main.cpp",
+		"/home/marty/Dev/Tower Defender 2D/Fixing/include/Hitbox.hpp",
+		"/home/marty/Dev/Tower Defender 2D/Fixing/Tower Defender 2D.sublime-project",
+		"/home/marty/Dev/Tower Defender 2D/Fixing/src/main.cpp",
+		"/home/marty/Dev/Tutorials/C++/SFML 2D Platformer/src/main.cpp",
+		"/home/marty/Dev/Tutorials/C++/SFML 2D Platformer/include/Entity.hpp",
+		"/home/marty/Dev/Tutorials/C++/SFML 2D Platformer/src/entity.cpp",
+		"/home/marty/Dev/Tower Defender 2D/Tower Defender 2D.sublime-project",
+		"/home/marty/Dev/Tower Defender 2D/include/Platform.hpp",
+		"/media/marty/CC3E97D03E97B246/Data 2019/Dev/C++/SFML 2D Platformer/src/main.cpp",
+		"/home/marty/Dev/Tower Defender 2D/src/arrow.cpp",
+		"/home/marty/Dev/Tower Defender 2D/src/object.cpp",
+		"/home/marty/Dev/Tower Defender 2D/bin/debug/main",
+		"/home/marty/.config/sublime-text-3/Packages/Default/exec.py",
+		"/home/marty/Dev/OpenGL 3D Game/src/main.cpp",
+		"/home/marty/.config/sublime-text-3/Packages/User/3024 Night Custom.tmTheme"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hitbox.bottom",
+			"hitbox.top",
+			"hitbox.right",
+			"hitbox.left",
+			"vertices",
+			"texBox",
+			"m_texBox",
+			"m_vertices",
+			"vertices",
+			"initTextureBox",
+			"tBox",
+			"num",
+			"g"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"y + h",
+			"y",
+			"x + w",
+			"x",
+			"m_vertices",
+			"vertices",
+			"texBox",
+			"initTexBox",
+			"initTextureBox",
+			"levelSize"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 187.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Release",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
